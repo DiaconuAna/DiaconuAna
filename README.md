@@ -25,6 +25,7 @@ My name is Ana-Maria Diaconu and I'm a 2nd year Computer Science student at [Bab
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ![CLion](https://img.shields.io/static/v1?style=for-the-badge&message=CLion&color=000000&logo=CLion&logoColor=FFFFFF&label=)
 ![Qt](https://img.shields.io/static/v1?style=for-the-badge&message=Qt&color=222222&logo=Qt&logoColor=41CD52&label=)
@@ -33,6 +34,8 @@ My name is Ana-Maria Diaconu and I'm a 2nd year Computer Science student at [Bab
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 ![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
 ![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
+![Matlab](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
+![Maple](https://img.shields.io/badge/Maple-00457C?style=for-the-badge&logo=leaf&logoColor=white)
 
 
 ---
