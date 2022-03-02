@@ -36,7 +36,7 @@ My name is Ana-Maria Diaconu and I'm a 2nd year Computer Science student at [Bab
 ---
 - :mailbox:How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-maria-diaconu-74a72722b/)
-[![Goodreads Badge](https://img.shields.io/static/v1?style=for-the-badge&message=Goodreads&color=372213&logo=Goodreads&logoColor=FFFFFF&label=")
+(https://img.shields.io/static/v1?style=for-the-badge&message=Goodreads&color=372213&logo=Goodreads&logoColor=FFFFFF&label=")
 
 
 
