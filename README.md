@@ -22,6 +22,16 @@ My name is Ana-Maria Diaconu and I'm a 2nd year Computer Science student at [Bab
 - In my free time I read books 📚 (fantasy 🧚, mythology ⚔️, historical fiction 🖋️), rollerskate 🛼 and watch figure skating ⛸️
 - Check out my [figure skating calculator](https://github.com/DiaconuAna/FS-Score)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=city-lights)](https://git.io/streak-stats)
+
 
 <!--
 **DiaconuAna/DiaconuAna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
