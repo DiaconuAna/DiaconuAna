@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <p> <b> <i> Hello world </i> </b> </p>
+  <h2> <b> <i> Hello world </i> </b> </h2>
   <img src="https://media.giphy.com/media/cXRew6iGi0cLZSl76j/giphy.gif" width="100"/>
 </div>
 
