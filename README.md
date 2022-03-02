@@ -37,7 +37,6 @@ My name is Ana-Maria Diaconu and I'm a 2nd year Computer Science student at [Bab
 
 <div id="badges">
                                              📫 where to find me
-    
     <a href="https://www.linkedin.com/in/ana-maria-diaconu-74a72722b/" target = "_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
