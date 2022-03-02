@@ -34,9 +34,16 @@ My name is Ana-Maria Diaconu and I'm a 2nd year Computer Science student at [Bab
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=omni)](https://git.io/streak-stats)
 
 ---
-- :mailbox:How to reach me: 
-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-maria-diaconu-74a72722b/)
-(https://img.shields.io/static/v1?style=for-the-badge&message=Goodreads&color=372213&logo=Goodreads&logoColor=FFFFFF&label=")
+
+<div id="badges">
+    📫 where to find me
+    <a href="https://www.linkedin.com/in/ana-maria-diaconu-74a72722b/" target = "_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.goodreads.com/user/show/49523031-ana" target = "_blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Goodreads&color=372213&logo=Goodreads&logoColor=FFFFFF&label=" alt="LinkedIn Badge"/>
+    </a>
+</div>
 
 
 
