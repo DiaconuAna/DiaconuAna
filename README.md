@@ -6,7 +6,7 @@
 </div>
 
 <div id="badges">
-    Find me here >>> **work in progress**
+    Find me here >>> ***work in progress***
     <a href="https://www.linkedin.com/in/ana-maria-diaconu-74a72722b/" target = "_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
