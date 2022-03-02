@@ -1,8 +1,8 @@
 
 
 <div id="header" align="center">
-  <p> Hello world </p>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <p> <b> <i> Hello world </i> </b> </p>
+  <img src="https://media.giphy.com/media/cXRew6iGi0cLZSl76j/giphy.gif" width="100"/>
 </div>
 
 <!--
