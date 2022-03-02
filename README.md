@@ -30,7 +30,7 @@ My name is Ana-Maria Diaconu and I'm a 2nd year Computer Science student at [Bab
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=city-lights)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=omni)](https://git.io/streak-stats)
 
 
 <!--
