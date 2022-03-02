@@ -29,9 +29,14 @@ My name is Ana-Maria Diaconu and I'm a 2nd year Computer Science student at [Bab
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiaconuAna&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiaconuAna&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=omni)](https://git.io/streak-stats)
+
+---
+- :mailbox:How to reach me: 
+[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-maria-diaconu-74a72722b/)
+[![Goodreads Badge](https://img.shields.io/static/v1?style=for-the-badge&message=Goodreads&color=372213&logo=Goodreads&logoColor=FFFFFF&label=")
 
 
 
