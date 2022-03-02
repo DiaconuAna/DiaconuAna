@@ -1,12 +1,4 @@
 
-
-<div id="header" align="center">
-    <h2> <b> Hello world </b> </h2>
-    <img src="https://media.giphy.com/media/cXRew6iGi0cLZSl76j/giphy.gif" width="100"/>
-</div>
-
----
-
 <div align="center">
     <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/>
 </div>
