@@ -11,7 +11,7 @@
 My name is Ana-Maria Diaconu and I'm a 2nd year Computer Science student at [Babeș-Bolyai University](http://www.cs.ubbcluj.ro/).
 
 - I'm currently living in Cluj-Napoca
-- I'm interested in unit testing 📝 and computational linguistics ✍️
+- I'm interested in automotive🚗 and computational linguistics ✍️
 - In my free time I read books 📚 (fantasy 🧚, mythology ⚔️, historical fiction 🖋️), rollerskate 🛼 and watch figure skating ⛸️
 - Check out my [figure skating calculator](https://github.com/DiaconuAna/FS-Score)
 
