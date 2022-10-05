@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me :
 
-My name is Ana-Maria Diaconu and I'm a 2nd year Computer Science student at [Babeș-Bolyai University](http://www.cs.ubbcluj.ro/).
+My name is Ana-Maria Diaconu and I'm a 3rd year Computer Science student at [Babeș-Bolyai University](http://www.cs.ubbcluj.ro/).
 
 - I'm currently living in Cluj-Napoca
 - I'm interested in automotive🚗 and computational linguistics ✍️
