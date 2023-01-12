@@ -34,7 +34,6 @@ My name is Ana-Maria Diaconu and I'm a 3rd year Computer Science student at [Bab
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiaconuAna&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=omni)](https://git.io/streak-stats)
 
