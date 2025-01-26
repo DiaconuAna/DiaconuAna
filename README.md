@@ -8,12 +8,10 @@
 
 ### 👩‍💻 About Me :
 
-My name is Ana-Maria Diaconu and I studied Computer Science at [Babeș-Bolyai University](http://www.cs.ubbcluj.ro/).
+My name is Ana-Maria Diaconu, I have a Bachelor in Computer Science at [Babeș-Bolyai University](http://www.cs.ubbcluj.ro/), and I currently pursue a Master's degree in Software Engineering there.
 
-- I'm currently living in Cluj-Napoca
-- I'm interested in automotive🚗 and computational linguistics ✍️
-- In my free time I read books 📚 (fantasy 🧚, mythology ⚔️, historical fiction 🖋️), rollerskate 🛼 and watch figure skating ⛸️
-- Check out my [figure skating calculator](https://github.com/DiaconuAna/FS-Score)
+- I am a Senior Engineer at [Synopsys](https://www.synopsys.com/) in Cluj-Napoca, working in the automotive domain with various technologies including C++ and Matlab (Simulink, Real-Time Workshop among others).
+- In my free time I read books 📚 (fantasy 🧚, mythology ⚔️, historical fiction 🖋️), rollerskate 🛼, write🖋️, and watch figure skating ⛸️.
 
 ---
 
@@ -26,16 +24,9 @@ My name is Ana-Maria Diaconu and I studied Computer Science at [Babeș-Bolyai Un
 ![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 ![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
-![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
 ![Matlab](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
 ![Maple](https://img.shields.io/badge/Maple-00457C?style=for-the-badge&logo=leaf&logoColor=white)
 
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=omni)](https://git.io/streak-stats)
 
 ---
 
@@ -44,24 +35,4 @@ My name is Ana-Maria Diaconu and I studied Computer Science at [Babeș-Bolyai Un
     <a href="https://www.linkedin.com/in/ana-maria-diaconu-74a72722b/" target = "_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.goodreads.com/user/show/49523031-ana" target = "_blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Goodreads&color=372213&logo=Goodreads&logoColor=FFFFFF&label=" alt="LinkedIn Badge"/>
-    </a>
 </div>
-
-
-
-<!--
-**DiaconuAna/DiaconuAna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
