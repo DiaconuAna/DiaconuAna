@@ -1,32 +1,53 @@
 
 <div align="center">
-        <h1> <b>  Hello world  </b> </h1>
+        <h1> <code> <b>Hello world</b> </code></h1>
     <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
 
-### 👩‍💻 About Me :
+# Hi there! 👋 I'm Ana-Maria Diaconu
 
-My name is Ana-Maria Diaconu, I have a Bachelor in Computer Science at [Babeș-Bolyai University](http://www.cs.ubbcluj.ro/), and I currently pursue a Master's degree in Software Engineering there.
+I'm passionate about technology, software development, and continuous learning. Here's a little bit about me:
 
-- I am a Senior Engineer at [Synopsys](https://www.synopsys.com/) in Cluj-Napoca, working in the automotive domain with various technologies including C++ and Matlab (Simulink, Real-Time Workshop among others).
-- In my free time I read books 📚 (fantasy 🧚, mythology ⚔️, historical fiction 🖋️), rollerskate 🛼, write🖋️, and watch figure skating ⛸️.
+## 🎓 Education
+- **Bachelor's Degree in Computer Science** at [Babeș-Bolyai University](http://www.cs.ubbcluj.ro/).
+- Currently pursuing a **Master's Degree in Software Engineering** at [Babeș-Bolyai University](http://www.cs.ubbcluj.ro/) to better understand the domain, software engineering principles and methodologies and to build a "bigger picture" perspective of the field at hand.
+
+## 💼 Professional Experience
+- **Senior Engineer** at [Synopsys](https://www.synopsys.com/) in Cluj-Napoca.
+  - Specialized in the **automotive domain**.
+  - Skilled in **C**, **C++**, **Python**, **MATLAB (Simulink, Real-Time Workshop, etc.)**, and a wide range of **technologies**.
+  - Familiar with the **AUTOSAR standard** and its applications in automotive software.
+
+## 🌟 Skills
+- **Programming Languages**: C, C++, Python, MATLAB
+- **Domains**: Automotive software, Simulink modeling, AUTOSAR standard
+- **Tools**: Real-Time Workshop, EB Tresos, and more.
+
+## 🌱 Hobbies & Interests
+In my free time, I enjoy:
+- 📚 Reading (favorite genres: **fantasy**, **mythology**, and **historical fiction**)
+- ✍️ Writing (and keeping a commonplace book)
+- 🎵 Listening to and discovering game and movie soundtracks
+- ⛸️ Watching figure skating and 🛼 rollerskating
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages, Tools, Standards :
 ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ![CLion](https://img.shields.io/static/v1?style=for-the-badge&message=CLion&color=000000&logo=CLion&logoColor=FFFFFF&label=)
 ![Qt](https://img.shields.io/static/v1?style=for-the-badge&message=Qt&color=222222&logo=Qt&logoColor=41CD52&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
-![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
-![Matlab](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
 ![Maple](https://img.shields.io/badge/Maple-00457C?style=for-the-badge&logo=leaf&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
+![Matlab_Simulink](https://img.shields.io/badge/MATLAB-Simulink-0076d6?style=flat&labelColor=ff5722)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=Apache+Kafka&logoColor=FFFFFF)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache+Spark&logoColor=FFFFFF)
+![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=Angular&logoColor=FFFFFF)
+![AUTOSAR](https://img.shields.io/badge/AUTOSAR--e30613?style=flat&labelColor=4e4e4e)
 
 ---
 
@@ -36,3 +57,8 @@ My name is Ana-Maria Diaconu, I have a Bachelor in Computer Science at [Babeș-B
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
+
+---
+
+### 🌟 Inspiration from my commonplace book
+*"Let me fall if I must fall. The one I am becoming will catch me."* - Sheryl Sandberg
