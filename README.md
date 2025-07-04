@@ -11,8 +11,8 @@
 I'm passionate about technology, software development, and continuous learning. Here's a little bit about me:
 
 ## 🎓 Education
-- **Bachelor's Degree in Computer Science** at [Babeș-Bolyai University](http://www.cs.ubbcluj.ro/).
-- Currently pursuing a **Master's Degree in Software Engineering** at [Babeș-Bolyai University](http://www.cs.ubbcluj.ro/) to better understand the domain, software engineering principles and methodologies and to build a "bigger picture" perspective of the field at hand.
+- **Bachelor's Degree in Computer Science** at [Babeș-Bolyai University](http://www.cs.ubbcluj.ro/). [Check out my bachelor thesis application on keyword-based recommender systems](https://github.com/DiaconuAna/Bookify).
+- **Master's Degree in Software Engineering** at [Babeș-Bolyai University](http://www.cs.ubbcluj.ro/). [Check out my master's thesis application on detecting antipatterns in Python code](https://github.com/DiaconuAna/AntiPyttern).
 
 ## 💼 Professional Experience
 - **Senior Engineer** at [Synopsys](https://www.synopsys.com/) in Cluj-Napoca.
